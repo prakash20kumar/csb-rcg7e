@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://prakash20kumar.github.io/csb-rcg7e/static/css/main.efb3a1a0.chunk.css",
+    "main.js": "https://prakash20kumar.github.io/csb-rcg7e/static/js/main.953b79c7.chunk.js",
+    "main.js.map": "https://prakash20kumar.github.io/csb-rcg7e/static/js/main.953b79c7.chunk.js.map",
+    "runtime-main.js": "https://prakash20kumar.github.io/csb-rcg7e/static/js/runtime-main.5ca04dc3.js",
+    "runtime-main.js.map": "https://prakash20kumar.github.io/csb-rcg7e/static/js/runtime-main.5ca04dc3.js.map",
+    "static/js/2.b518ba1c.chunk.js": "https://prakash20kumar.github.io/csb-rcg7e/static/js/2.b518ba1c.chunk.js",
+    "static/js/2.b518ba1c.chunk.js.map": "https://prakash20kumar.github.io/csb-rcg7e/static/js/2.b518ba1c.chunk.js.map",
+    "index.html": "https://prakash20kumar.github.io/csb-rcg7e/index.html",
+    "static/css/main.efb3a1a0.chunk.css.map": "https://prakash20kumar.github.io/csb-rcg7e/static/css/main.efb3a1a0.chunk.css.map",
+    "static/js/2.b518ba1c.chunk.js.LICENSE.txt": "https://prakash20kumar.github.io/csb-rcg7e/static/js/2.b518ba1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ca04dc3.js",
+    "static/js/2.b518ba1c.chunk.js",
+    "static/css/main.efb3a1a0.chunk.css",
+    "static/js/main.953b79c7.chunk.js"
+  ]
+}
